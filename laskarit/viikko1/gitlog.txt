@@ -1,0 +1,79 @@
+commit fff8f964ebfc6598accf96bdc8e638d92f22b3fa
+Author: roxehexor <aripekka.perhoniemi@gmail.com>
+Date:   Wed Mar 14 15:01:11 2018 +0200
+
+    harjoittelua loppu
+
+ tiedostoja/file1  | 0
+ tiedostoja/file2  | 0
+ tiedostoja/file22 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 908b9868962d9c2001b5294d3a651d0d2eccddd4
+Author: roxehexor <aripekka.perhoniemi@gmail.com>
+Date:   Wed Mar 14 14:54:09 2018 +0200
+
+    uusi hakemisto ja  3 filua
+
+ eka.txt          | 17 ++++++++++++++++-
+ tiedostoja/file1 |  0
+ tiedostoja/file2 |  0
+ tiedostoja/file3 |  0
+ ttt.txt          |  2 ++
+ 5 files changed, 18 insertions(+), 1 deletion(-)
+
+commit 3b12ffd4b8cad5fca89ea8aa4eb715e963f50422
+Author: roxehexor <aripekka.perhoniemi@gmail.com>
+Date:   Wed Mar 14 14:30:05 2018 +0200
+
+    t nimetty ekaksi
+
+ eka.txt | 1 +
+ t.txt   | 1 -
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+
+commit b14213211ca31f5fdaa8d162b94abe89f067e44e
+Author: roxehexor <aripekka.perhoniemi@gmail.com>
+Date:   Wed Mar 14 14:27:22 2018 +0200
+
+    tt poistettu
+
+ tt.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 88c8b26c1ff95213c1f90b0976c1b882d36ff9c5
+Author: roxehexor <aripekka.perhoniemi@gmail.com>
+Date:   Wed Mar 14 14:25:45 2018 +0200
+
+    t.txt muokattu
+
+ t.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 8bc8aafe51b4cb4123f925d3518cfce9f3e0507e
+Author: roxehexor <aripekka.perhoniemi@gmail.com>
+Date:   Wed Mar 14 14:17:47 2018 +0200
+
+    ttt.txt luotu
+
+ ttt.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 2f44bd30e886d5f2624e8df476e4cffc594aa836
+Author: roxehexor <aripekka.perhoniemi@gmail.com>
+Date:   Wed Mar 14 14:15:53 2018 +0200
+
+    muutos ja lisäys
+
+ t.txt  | 1 +
+ tt.txt | 0
+ 2 files changed, 1 insertion(+)
+
+commit d3c33f20bbb40b6db1192f27803644518afa4576
+Author: roxehexor <aripekka.perhoniemi@gmail.com>
+Date:   Wed Mar 14 14:13:49 2018 +0200
+
+    t.txt luotu
+
+ t.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
