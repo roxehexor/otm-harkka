@@ -8,3 +8,4 @@
 
 [gitlog.txt](https://github.com/roxehexor/otm-harkka/blob/master/laskarit/viikko1/gitlog.txt)
 
+**kauhean boldia tekstiä**
